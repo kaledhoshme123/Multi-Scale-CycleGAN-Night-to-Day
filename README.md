@@ -20,4 +20,4 @@
 |  ![__results___29_0](https://github.com/kaledhoshme123/Multi-Scale-CycleGAN-Night-to-Day/assets/108609519/91597e6b-00bc-4b6e-9ec2-294a18b104f2) | 
 
 ### Note:
-I have Trained CycleGan for 35000 Epochs (you train more than and You will get more accurate results )
+I have Trained CycleGan for 35000 Epochs (You can train for more Epochs and you will get more accurate results)
